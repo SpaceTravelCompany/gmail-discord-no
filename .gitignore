@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+*.egg
+
+# Secrets
+credentials.json
+token.json
+.env
+
+# Logs
+*.log
+*.pid
+
+# IDE
+.vscode/
+.idea/
